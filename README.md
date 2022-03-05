@@ -58,6 +58,7 @@
 ### Deploy to Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suroj02042001/Google_Translater_V2)
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?code=Gaamfb&referralCode=VzISR7)
 ## License
 ````
 lntechnical2/Google_Translater_V2 is licensed under the
